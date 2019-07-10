@@ -8,3 +8,4 @@ Resources:
           ContainerName: "hello-world"
           ContainerPort: 80
         PlatformVersion: "LATEST"
+        
