@@ -5,6 +5,6 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: "crash-report-server"
+          ContainerName: "hello-world"
           ContainerPort: 80
         PlatformVersion: "LATEST"
